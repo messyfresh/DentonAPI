@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "mongoUrl": "INSERT MONGO URL HERE",
+  "devId": SMITE API DEVID HERE,
+  "authKey": "SMITE API AUTHKEY HERE",
+  "baseUrl": "http://api.smitegame.com/smiteapi.svc/"
+}
